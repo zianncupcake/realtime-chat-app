@@ -1,7 +1,7 @@
 # Real-time Chat App
 
 ## Techstack
-Spring boot, Websocket
+Spring boot, Websocket,
 Java, Javascript, HTML, CSS
 
 ## Features
