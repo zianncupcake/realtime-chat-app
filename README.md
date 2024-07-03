@@ -4,6 +4,8 @@
 Spring boot, Websocket,
 Java, Javascript, HTML, CSS
 
+Deployed on AWS EC2 Instance http://54.255.202.124:8080/  
+
 ## Features
 Supports multi-user messaging, live chat updates, notifications when new user joins/leaves
 
